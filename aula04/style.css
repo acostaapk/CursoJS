@@ -1,0 +1,21 @@
+    body {
+        background-color: rgb(132, 165, 165);
+
+    }
+
+    h1 {
+        -webkit-text-stroke: 1px rgb(255, 0, 0);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 50px;
+        font-weight: bold;
+        color: black;
+    }
+
+    p {
+        font-family: Arial;
+        font-size: 20px;
+        color: rgb(39, 28, 49);
+        font-style:oblique;
+        font-weight: bold;
+    }
+
